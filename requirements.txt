@@ -53,7 +53,7 @@ importlib_metadata==7.1.0
 importlib_resources==6.4.0
 installer==0.7.0
 jaraco.classes==3.4.0
-Jinja2==3.1.4
+Jinja2==3.1.5
 jmespath==1.0.1
 joblib==1.4.2
 jsonpatch==1.33
